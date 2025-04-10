@@ -1,4 +1,4 @@
- <img width="150" heigh="150" src="https://github.com/user-attachments/assets/3d6023e9-3b7f-40d2-9626-546ac75cac48" />
+<img width="1280" alt="capa github" src="https://github.com/user-attachments/assets/e8801219-1fb9-4d11-9686-551591244df9" />
 
 ## Sobre
 
