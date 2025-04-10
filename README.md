@@ -20,7 +20,7 @@ Me chamo Moraes, sou de São Borja no RS e trabalho com desenvolvimento de softw
 
 ## Experiências
 
-Atualmente tenho participão em 2 projetos que estão em operação, sendo eles:
+Atualmente tenho participação em 2 projetos que estão em operação, sendo eles:
 - WMS - sistema de armazenamento de estoque de peças automotivas do grupo Stellantis.
 - Propulsor - Sistema de gerenciamento para exportação e importação de cargas internacioais em portos secos.
 
