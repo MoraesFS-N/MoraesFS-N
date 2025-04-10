@@ -35,7 +35,7 @@ Banco de Dados & Flyway: Modelagem, manipulação de dados utilizando JPA/Hibern
 *Diferenciais: Experiência na integração de frontend Angular com backend Spring Boot. Implementação de paginação, filtros dinâmicos, manipulação de documentos xls, xml e pdf e integração com IA.*
 
 ## Contatos
-<div class="flex-center">
+<div>
 <a href="https://instagram.com/moraes.escobar" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/mowzeera" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@moraesfelicioneto123"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
