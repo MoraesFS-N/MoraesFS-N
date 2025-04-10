@@ -2,6 +2,7 @@
 
 ## Sobre
 
+Me chamo Moraes, sou de São Borja no RS e trabalho com desenvolvimento de software a quase 5 anos, tendo foco em programação WEB, comecei minha jornada como técnico de suporte, fazendo manutenção de hardware e redes, depois migrei para área do desenvolvimento onde me formei em Sistemas de Informação pelo Instituto Federal Farroupilha e hoje atuo como desenvolvedor Fullstack, com foco em programação WEB.
 
 ## Experiências
 
@@ -30,5 +31,5 @@
 
 ## Sobre
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MoraesFS-N/MoraesFS-N/blob/output/github-contribution-grid-snake.svg)
 
